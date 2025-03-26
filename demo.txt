@@ -1,0 +1,5 @@
+### This is Python class and everyone should take class and learn python table and 0*10 . 
+
+git init 
+git add . 
+git commit -m "added" 
